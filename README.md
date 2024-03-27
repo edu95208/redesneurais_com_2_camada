@@ -1,8 +1,13 @@
 
 Rede Neural de 2 Camadas
+
+
 Este é um projeto que implementa uma rede neural artificial de duas camadas. A rede neural é uma implementação básica para aprendizado e demonstração de conceitos de redes neurais.
 
+
 Arquitetura da Rede Neural
+
+
 A rede neural consiste em duas camadas:
 
 Camada de Entrada:
